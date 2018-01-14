@@ -1,0 +1,96 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Наталия\Documents\repos\Unity\Laser Defender\Final Build\LD_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Наталия\Documents\repos\Unity\Laser Defender\Final Build\LD_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Наталия\Documents\repos\Unity\Laser Defender\Final Build\LD_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Наталия\Documents\repos\Unity\Laser Defender\Final Build\LD_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Наталия\Documents\repos\Unity\Laser Defender\Final Build\LD_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Наталия\Documents\repos\Unity\Laser Defender\Final Build\LD_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.141 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\Наталия\Documents\repos\Unity\Laser Defender\Final Build\LD_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Наталия\Documents\repos\Unity\Laser Defender\Final Build\LD_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 16.252167 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 1.231882 ms (FindLiveObjects: 0.016910 ms CreateObjectMapping: 0.012124 ms MarkObjects: 0.292576 ms  DeleteObjects: 0.194625 ms)
+
+UnloadTime: 1.388539 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 235.
+Total: 0.889852 ms (FindLiveObjects: 0.014357 ms CreateObjectMapping: 0.012443 ms MarkObjects: 0.216640 ms  DeleteObjects: 0.004785 ms)
+
+Fire!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fire!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fire!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.878366 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 4.947948 ms (FindLiveObjects: 0.013081 ms CreateObjectMapping: 0.012443 ms MarkObjects: 0.230040 ms  DeleteObjects: 4.007047 ms)
+
+UnloadTime: 0.597276 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178.
+Total: 1.021942 ms (FindLiveObjects: 0.012762 ms CreateObjectMapping: 0.015633 ms MarkObjects: 0.233550 ms  DeleteObjects: 0.005104 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MusicalPlayer.OnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.590576 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 235.
+Total: 1.276231 ms (FindLiveObjects: 0.014676 ms CreateObjectMapping: 0.013400 ms MarkObjects: 0.238336 ms  DeleteObjects: 0.005423 ms)
+
+Fire!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fire!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fire!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.877728 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 6.648527 ms (FindLiveObjects: 0.013400 ms CreateObjectMapping: 0.013081 ms MarkObjects: 0.226531 ms  DeleteObjects: 5.751017 ms)
+
+UnloadTime: 0.604614 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178.
+Total: 0.974721 ms (FindLiveObjects: 0.012762 ms CreateObjectMapping: 0.013081 ms MarkObjects: 0.247269 ms  DeleteObjects: 0.004785 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MusicalPlayer.OnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
