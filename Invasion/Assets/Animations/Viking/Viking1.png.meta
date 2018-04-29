@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 12b8dce36bab6264a91f03be13555058
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Viking1_0
+    21300002: Viking1_1
+    21300004: Viking1_2
+    21300006: Viking1_3
+    21300008: Viking1_4
+    21300010: Viking1_5
+    21300012: Viking1_6
+    21300014: Viking1_7
+    21300016: Viking1_8
+    21300018: Viking1_9
+    21300020: Viking1_10
+    21300022: Viking1_11
+    21300024: Viking1_12
+    21300026: Viking1_13
+    21300028: Viking1_14
+    21300030: Viking1_15
+    21300032: Viking1_16
+    21300034: Viking1_17
+    21300036: Viking1_18
+    21300038: Viking1_19
+    21300040: Viking1_20
+    21300042: Viking1_21
+    21300044: Viking1_22
+    21300046: Viking1_23
+    21300048: Viking1_24
+    21300050: Viking1_25
+    21300052: Viking1_26
+    21300054: Viking1_27
+    21300056: Viking1_28
+    21300058: Viking1_29
+    21300060: Viking1_30
+    21300062: Viking1_31
+    21300064: Viking1_32
+    21300066: Viking1_33
+    21300068: Viking1_34
+    21300070: Viking1_35
+    21300072: Viking1_36
+    21300074: Viking1_37
+    21300076: Viking1_38
+    21300078: Viking1_39
+    21300080: Viking1_40
+    21300082: Viking1_41
+    21300084: Viking1_42
+    21300086: Viking1_43
+    21300088: Viking1_44
+    21300090: Viking1_45
+    21300092: Viking1_46
+    21300094: Viking1_47
+    21300096: Viking1_48
+    21300098: Viking1_49
+    21300100: Viking1_50
+    21300102: Viking1_51
+    21300104: Viking1_52
+    21300106: Viking1_53
+    21300108: Viking1_54
+    21300110: Viking1_55
+    21300112: Viking1_56
+    21300114: Viking1_57
+    21300116: Viking1_58
+    21300118: Viking1_59
+    21300120: Viking1_60
+    21300122: Viking1_61
+    21300124: Viking1_62
+    21300126: Viking1_63
+    21300128: Viking1_64
+    21300130: Viking1_65
+    21300132: Viking1_66
+    21300134: Viking1_67
+    21300136: Viking1_68
+    21300138: Viking1_69
+    21300140: Viking1_70
+    21300142: Viking1_71
+    21300144: Viking1_72
+    21300146: Viking1_73
+    21300148: Viking1_74
+    21300150: Viking1_75
+    21300152: Viking1_76
+    21300154: Viking1_77
+    21300156: Viking1_78
+    21300158: Viking1_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Viking1_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_2
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_3
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_4
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_5
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_6
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_7
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_8
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_9
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 3007
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2625
+        width: 186
+        height: 332
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2628
+        width: 189
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_12
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2630
+        width: 189
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_13
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2635
+        width: 189
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_14
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2635
+        width: 190
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_15
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2635
+        width: 189
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_16
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 2635
+        width: 190
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_17
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 2631
+        width: 186
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_18
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 2628
+        width: 186
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_19
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 2625
+        width: 186
+        height: 332
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2220
+        width: 196
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2220
+        width: 215
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_22
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2220
+        width: 248
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_23
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2220
+        width: 255
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_24
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2220
+        width: 209
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_25
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 2220
+        width: 239
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_26
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 2220
+        width: 222
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_27
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 2220
+        width: 192
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_28
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 2220
+        width: 232
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_29
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 2220
+        width: 196
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_31
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_32
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_33
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_34
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_35
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_36
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_37
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_38
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_39
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1781
+        width: 196
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1376
+        width: 209
+        height: 332
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1373
+        width: 206
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_42
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1363
+        width: 210
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_43
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1350
+        width: 203
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_44
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1346
+        width: 201
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_45
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1346
+        width: 196
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_46
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1350
+        width: 203
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_47
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1363
+        width: 206
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_48
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1373
+        width: 210
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_49
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1376
+        width: 206
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 855
+        width: 189
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 882
+        width: 183
+        height: 351
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_52
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 938
+        width: 175
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_53
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 965
+        width: 183
+        height: 351
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_54
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 938
+        width: 179
+        height: 345
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_55
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 888
+        width: 216
+        height: 345
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_56
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 858
+        width: 229
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_57
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 858
+        width: 219
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_58
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 855
+        width: 202
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_59
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 850
+        width: 193
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_60
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 450
+        width: 186
+        height: 352
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_61
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 457
+        width: 182
+        height: 345
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_62
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 476
+        width: 183
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_63
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 491
+        width: 212
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_64
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 491
+        width: 229
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_65
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 490
+        width: 225
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_66
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 490
+        width: 213
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_67
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 476
+        width: 182
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_68
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 457
+        width: 183
+        height: 345
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_69
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 450
+        width: 187
+        height: 352
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 81
+        width: 378
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_71
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 55
+        width: 362
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_72
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 105
+        width: 308
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_73
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 111
+        width: 249
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_74
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 108
+        width: 232
+        height: 305
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_75
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 105
+        width: 226
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_76
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 101
+        width: 213
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_77
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 105
+        width: 206
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_78
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 105
+        width: 212
+        height: 315
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Viking1_79
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 108
+        width: 202
+        height: 305
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

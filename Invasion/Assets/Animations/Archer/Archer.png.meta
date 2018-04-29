@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 871f56b1ac8972f48962874801f18fbe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Archer_0
+    21300002: Archer_1
+    21300004: Archer_2
+    21300006: Archer_3
+    21300008: Archer_4
+    21300010: Archer_5
+    21300012: Archer_6
+    21300014: Archer_7
+    21300016: Archer_8
+    21300018: Archer_9
+    21300020: Archer_10
+    21300022: Archer_11
+    21300024: Archer_12
+    21300026: Archer_13
+    21300028: Archer_14
+    21300030: Archer_15
+    21300032: Archer_16
+    21300034: Archer_17
+    21300036: Archer_18
+    21300038: Archer_19
+    21300040: Archer_24
+    21300042: Archer_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Archer_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2821
+        width: 309
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2821
+        width: 312
+        height: 345
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2821
+        width: 311
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_3
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 2821
+        width: 313
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_4
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2822
+        width: 314
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_5
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2824
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_6
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 2821
+        width: 315
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_7
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2821
+        width: 311
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_8
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 2821
+        width: 310
+        height: 345
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_9
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 2821
+        width: 310
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2403
+        width: 311
+        height: 346
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2399
+        width: 315
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2409
+        width: 321
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_13
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2408
+        width: 325
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_14
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2407
+        width: 327
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_15
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2407
+        width: 328
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_16
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 2407
+        width: 328
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_17
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 2408
+        width: 326
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_18
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 2403
+        width: 319
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_19
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2409
+        width: 309
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

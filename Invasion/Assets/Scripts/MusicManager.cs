@@ -13,6 +13,9 @@ public class MusicManager : MonoBehaviour {
 	
 	void Start(){
 		audioSource = this.GetComponent<AudioSource>();
+		
+		float volume = PlayerPrefsManager.GetMasterVolume();
+		SetVolume(volume);
 	}
 	
 	void OnLevelWasLoaded(int level) {
@@ -21,7 +24,7 @@ public class MusicManager : MonoBehaviour {
 			audioSource.Stop();
 			audioSource.clip = levelMusicChangeArray[level];
 			audioSource.loop = true;
-			audioSource.volume = PlayerPrefsManager.GetMasterVolume();
+			//audioSource.volume = PlayerPrefsManager.GetMasterVolume();
 			audioSource.Play();
 		}
 	}

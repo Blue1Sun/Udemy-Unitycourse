@@ -4,7 +4,7 @@ using System.Collections;
 
 public class Fading : MonoBehaviour {
 
-	public float fadingTime;
+	public static float fadingTime = 1;
 	
 	private Image fadePanel;
 	private Color curColor = Color.black;
@@ -16,13 +16,14 @@ public class Fading : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Time.timeSinceLevelLoad < fadingTime){
+		if (Time.timeSinceLevelLoad < fadingTime && fadingTime > 0){
 			float alphaChange = Time.deltaTime / fadingTime;
 			curColor.a -= alphaChange;
 			fadePanel.color = curColor;	
 		}
 		else {
 			gameObject.SetActive(false);
+			fadingTime = 0;
 		}
 	}
 }
