@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: 50a5c5c2d7115c84391b96fb30dc541a
+guid: e7b184d74581e714cb2bbd1ebf2cdba3
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: trophy top
+    21300002: trophy base
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -27,7 +29,7 @@ TextureImporter:
     filterMode: -1
     aniso: 16
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -42,6 +44,26 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: trophy top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 37
+        height: 40
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trophy base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
