@@ -42,6 +42,15 @@ Space shooter project with 1 level. Ships have its health, which reduces when th
 
 ---
 ### Invasion
+* Completed (30.04.2018)
+
+"Plants vs. Zombies" clone designed for mobile devices, but can be launched from Windows too. Game has 3 levels, supports PlayerPrefs, animations have events, canvas scales normally according to player screen resolution. Improved by me with pause button + completely different sprites/animations + different behaviour of the character's death.
+
+
+**Contains 8 scenes, 24 sprites, 24 animations, 8 controllers, 1 material, 4 fonts, 16 prefabs, 6 sounds and 22 scripts.**
+
+---
+### Bowlmaster: 10-Pin Bowling
 * Work in progress...
 
-"Plants vs. Zombies" clone.
+First 3D game.
