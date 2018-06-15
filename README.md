@@ -51,6 +51,15 @@ Space shooter project with 1 level. Ships have its health, which reduces when th
 
 ---
 ### Bowlmaster: 10-Pin Bowling
+* Completed (15.06.2018)
+
+First 3D game, simple 10-pin bowling, input with mouse moves and clicks. App doesn't have menu and buttons to close the window, because such simple tasks have been already learned in previous games. In this section I also tried Unity Test Runner, TDD strategy, Sub-State Machine in Animator. This project was improved by me with different working code for ActionMaster + different algorithm for moving the ball before its launch.
+
+
+**Contains 1 scene, 4 animations, 1 controller, 4 materials, 1 physic material, 1 model, 1 skybox, 2 prefabs, 1 sound and 14 scripts, 3 sprites, 1 render texture.**
+
+---
+### Zombie Runner FPS
 * Work in progress...
 
-First 3D game.
+Sandbox game.
