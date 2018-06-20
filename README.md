@@ -12,7 +12,7 @@ Simple project, that works with console only. Doesn't have .exe build. Just intr
 ### Text101
 * Completed (18.10.2017)
 
-Interactive fiction project, which reference to the beginning of "The Elder Scrolls IV: Oblivion". Besides course lessons, I have added possibility to pick up one item, and game text changes depending on having this item in player inventory. Project text (plot) can be continued, but it's code is completed within the framework of the course.
+Interactive fiction project, which makes reference to the beginning of "The Elder Scrolls IV: Oblivion" and uses State Machine pattern. Besides course lessons, I have added possibility to pick up one item, and game text changes depending on having this item in player inventory. Project text (plot) can be continued, but it's code is completed within the framework of the course.
 
 **Contains 1 scene, 2 sprites and 1 script.**
 
