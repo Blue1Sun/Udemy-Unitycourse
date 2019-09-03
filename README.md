@@ -1,5 +1,5 @@
 # Udemy Unity course
-~~Games I created with [this course](https://www.udemy.com/unitycourse/).~~ The course I used has been moved to [archive](https://www.udemy.com/unitycourse-archive/).
+~~Games I created with [this course](https://www.udemy.com/unitycourse/).~~ The course I used has been moved to [archive](https://www.udemy.com/unitycourse-archive/) (Unity 4 and 5).
 
 ### Number Wizard
 * Completed (17.10.2017)
