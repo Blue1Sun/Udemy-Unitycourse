@@ -56,10 +56,19 @@ Space shooter project with 1 level. Ships have its health, which reduces when th
 First 3D game, simple 10-pin bowling, input with mouse moves and clicks. App doesn't have menu and buttons to close the window, because such simple tasks have been already learned in previous games. In this section I also tried Unity Test Runner, TDD strategy, Sub-State Machine in Animator. This project was improved by me with different working code for ActionMaster + different algorithm for moving the ball before its launch.
 
 
-**Contains 1 scene, 4 animations, 1 controller, 4 materials, 1 physic material, 1 model, 1 skybox, 2 prefabs, 1 sound and 14 scripts, 3 sprites, 1 render texture.**
+**Contains 1 scene, 3 sprites, 1 render texture, 4 animations, 1 controller, 4 materials, 1 physic material, 1 model, 1 skybox, 2 prefabs, 1 sound and 14 scripts.**
 
 ---
 ### Zombie Runner FPS
+* Completed (11.07.2018)
+
+First-person game with an enemy using navmesh pathfinding and rescue helicopter. App has only one scene and doesn't have main menu as before. In this part of the course I learned how to create interesting terrain, added sun, flora and water to it, set day-night cycle. I also worked with standard Unity assets (Environment, Characters, Effects), used SendMessageUpwards and BroadcastMessage functions for representing radio system and inner voice. In the game player has 3 spawn points, the main goal is to find clear area for the helicopter, call for the rescue and wait until it arrive, running away from the zombie. 'V' button for zooming camera. I improved my version of game by adding helicopter movement to destination.
+
+
+**Contains 1 scene, 1 texture, 1 animation, 1 terrain, 2 navmeshes, 1 model, 4 prefabs, 5 sounds, 3 assets and 7 scripts.**
+
+---
+### Twin Sticks 2.5D
 * Work in progress...
 
-Sandbox game.
+2.5D game with cross-platform.
